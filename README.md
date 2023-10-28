@@ -54,7 +54,7 @@
 
 18. KeePass：密码管理器
 
-19. Treesize Free：磁盘空间分析
+19. Treesize Free【WizTree】：磁盘空间分析
 
 20. FreeFileSync：文件夹对比及同步（支持对本地文件进行监视，进而实时同步，即RealTimeSync功能）👍
 
@@ -123,6 +123,8 @@
 52. ToolsFx：密码学工具箱
 
 53. FastCopy：超快的文件复制与删除（对于复制或删除大且碎片化文件的目录简直不要太爽）👍
+
+54. TrafficMonitor：网速监控悬浮显示（除了监视网速外，插件功能还支持天气、任务栏小说阅读功能）
 
 ---
 

@@ -1,0 +1,20 @@
+| 软件名称             | 功能描述                         |
+|:---------------- |:---------------------------- |
+| AskAdmin         | 限制某些应用或文件的访问（即便当前已经是管理员账户登录） |
+| BackupSML        | 备份windows开始菜单布局              |
+| DnsJumper        | DNS优选工具                      |
+| DNS-Lock         | DNS锁定                        |
+| ec_menu          | 右键菜单管理                       |
+| fab              | 防火墙阻止程序                      |
+| FolderPainter    | 文件夹样式工具                      |
+| Hibernate        | 计算机休眠启用与禁用                   |
+| PowerRun         | 获取系统最高权限                     |
+| qsiboot_v1.3     | 镜像系统qemu启动                   |
+| RegCon           | 注册表更改转换为脚本运行去执行              |
+| RunAsTool        | 相当于runas，但该工具支持命令行脚本运行       |
+| RunBlock         | 运行阻止                         |
+| SkipUAC          | 指定应用跳过UAC询问                  |
+| TempCleaner      | 临时文件夹TEMP清理                  |
+| UrlDisabler      | 禁止网址访问                       |
+| VHD_manager_v1.4 | 虚拟硬盘VHD管理                    |
+| Wub              | 禁止系统更新                       |

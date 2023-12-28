@@ -1,18 +1,18 @@
 <h1 align="center">软件百宝箱</h>
 
-> 收藏小巧单文件直接运行的软件，记录需要安装但功能强大的应用。
+<div align="center">收藏小巧单文件直接运行的软件，记录需要安装但功能强大的应用。</div>
 
 ---
 
 ### **[收藏](https://github.com/kqdssheng/softbox)**
 
-| 类别                                                                   | 说明                      |
-| -------------------------------------------------------------------- | ----------------------- |
-| Cmd                                                                  | 命令行工具集                  |
-| Msic                                                                 | 软件来源五花八门的工具集            |
-| [NirSoft](https://www.nirsoft.net/)                                  | 来自 NirSoft 官方提供的系统维护工具集 |
-| [Sordum](https://www.sordum.org/)                                    | 来自 Sordum 官方提供的系统维护工具集  |
-| [SysinternalsSuite](https://learn.microsoft.com/zh-cn/sysinternals/) | 来自微软官方提供的系统维护工具集        |
+| 类别                                                 | 说明                                                                  |
+| -------------------------------------------------- | ------------------------------------------------------------------- |
+| [Cmd](./Cmd/README.md)                             | 命令行工具集                                                              |
+| [Msic](./Msic/README.md)                           | 软件来源五花八门的工具集                                                        |
+| [NirSoft](./NirSoft/README.md)                     | 来自 [NirSoft 官方](https://www.nirsoft.net/)提供的系统维护工具集                 |
+| [Sordum](./Sordum/README.md)                       | 来自 [Sordum 官方](https://www.sordum.org/)提供的系统维护工具集                   |
+| [SysinternalsSuite](./SysinternalsSuite/README.md) | 来自[微软官方](https://learn.microsoft.com/zh-cn/sysinternals/)提供的系统维护工具集 |
 
 ---
 

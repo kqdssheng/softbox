@@ -11,6 +11,7 @@
 | N_m3u8DL-CLI         | m3u8下载器                               |
 | NetAssist            | 网络调试器（主要用来测试TCP/UDP端口是否开放）            |
 | notepad++            | 文本编辑器                                 |
+| NtfsStreamsEditor    | NTFS文件系统下文件备用数据流编辑器                   |
 | PdgCntEditor         | PDF文件目录制作                             |
 | putty                | 仿终端                                   |
 | USBCopyer            | U盘数据无痕窃取                              |

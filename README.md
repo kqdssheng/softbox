@@ -1,8 +1,6 @@
-<h1 align="center">软件百宝箱</h>
+## <div align="center"><b>软件百宝箱</b></div>
 
-收藏小巧单文件直接运行的软件，记录需要安装但功能强大的应用。
-
----
+> 收藏小巧、单文件、可直接运行的软件，记录笨重、解压/安装、但功能强大的应用。
 
 ### **[收藏](https://github.com/kqdssheng/softbox)**
 

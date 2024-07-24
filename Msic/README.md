@@ -5,6 +5,7 @@
 | Bat_To_Exe_Converter | bat脚本转exe可执行文件                        |
 | BatchCmdGen          | 交换机重复操作命令批量生成                         |
 | ContextMenuManager   | 鼠标右键菜单管理                              |
+| Everything           | 文件快速搜索                                |
 | FolderMove           | 移动文件夹并自动创建软链接（移动已安装软件的安装目录但不影响软件正常运行） |
 | geek                 | 卸载管理器                                 |
 | IDM极简版               | IDM下载器                                |

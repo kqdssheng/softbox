@@ -15,6 +15,7 @@
 | NtfsStreamsEditor    | NTFS文件系统下文件备用数据流编辑器                   |
 | PdgCntEditor         | PDF文件目录制作                             |
 | putty                | 仿终端                                   |
+| RDPWrap              | RDP多会话连接(仅RDPWinst.exe即可实现效果，其余程序为辅助) |
 | USBCopyer            | U盘数据无痕窃取                              |
 | WinHex               | 十六进制编辑器                               |
 | 文件夹隐藏精灵              | 文件夹隐藏                                 |

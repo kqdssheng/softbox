@@ -148,125 +148,127 @@
 
 65. Netsetman：网卡配置文件随意切换，免去反锁配置Ip等信息的操作。
 
-66. **<mark>安卓类</mark>**
+66. Advanced_Installer：应用程序打包器。
 
-67. 印象笔记：云笔记
+67. **<mark>安卓类</mark>**
 
-68. 坚果云：跨设备文件同步共享
+68. 印象笔记：云笔记
 
-69. PDF Reader：PDF阅读器（自认为是安卓最好用的PDF阅读器，支持批注）👍
+69. 坚果云：跨设备文件同步共享
 
-70. X-plore：文件管理器（功能挺多）
+70. PDF Reader：PDF阅读器（自认为是安卓最好用的PDF阅读器，支持批注）👍
 
-71. HTTP FS：Http server（文件局域网传播，对方免客户端安装）
+71. X-plore：文件管理器（功能挺多）
 
-72. KWGT：窗口部件自定义
+72. HTTP FS：Http server（文件局域网传播，对方免客户端安装）
 
-73. VLC：视频播放器（轻巧）
+73. KWGT：窗口部件自定义
 
-74. MX 播放器：视频播放器
+74. VLC：视频播放器（轻巧）
 
-75. KPass：密码管理器（目测无网络功能，故无需担心数据上传风险）
+75. MX 播放器：视频播放器
 
-76. FV 悬浮窗：效率工具（喜欢它的自定义任务，相比于AutoJS来说操作难度小很多）
+76. KPass：密码管理器（目测无网络功能，故无需担心数据上传风险）
 
-77. 1DM：IDM安卓版（比ADM较稳定）👍
+77. FV 悬浮窗：效率工具（喜欢它的自定义任务，相比于AutoJS来说操作难度小很多）
 
-78. FireFox：浏览器
+78. 1DM：IDM安卓版（比ADM较稳定）👍
 
-79. 狐猴浏览器：浏览器（谷歌扩展应用商店支持度最好的安卓浏览器）👍
+79. FireFox：浏览器
 
-80. 清浊：文件清理
+80. 狐猴浏览器：浏览器（谷歌扩展应用商店支持度最好的安卓浏览器）👍
 
-81. 绿色守护：后台进程清理（可以腾出更多的运行内存）
+81. 清浊：文件清理
 
-82. 金山词霸：多语言翻译器（下拉框快速翻译、窗口部件快速翻译，避免想翻译还得专门打开软件的麻烦）
+82. 绿色守护：后台进程清理（可以腾出更多的运行内存）
 
-83. Syncthing：文件跨设备同步👍
+83. 金山词霸：多语言翻译器（下拉框快速翻译、窗口部件快速翻译，避免想翻译还得专门打开软件的麻烦）
 
-84. F-Droid：安卓开源应用管理器（提供的应用质量较高）
+84. Syncthing：文件跨设备同步👍
 
-85. APKPure：类谷歌 play 应用商店（种类丰富）
+85. F-Droid：安卓开源应用管理器（提供的应用质量较高）
 
-86. Feeder：RSS订阅器👍
+86. APKPure：类谷歌 play 应用商店（种类丰富）
 
-87. 白马地图：国内3个地图源可自由切换（百度、高德、腾讯）
+87. Feeder：RSS订阅器👍
 
-88. TVBox：电视直播盒子
+88. 白马地图：国内3个地图源可自由切换（百度、高德、腾讯）
 
-89. ZArchiver：功文件压缩和解压缩工具（完美还原 PC 端使用体验）
+89. TVBox：电视直播盒子
 
-90. VNT：异地组网客户端
+90. ZArchiver：功文件压缩和解压缩工具（完美还原 PC 端使用体验）
 
-91. 黑盒闪搜：文件快速搜索
+91. VNT：异地组网客户端
 
-92. **<mark>浏览器扩展类</mark>**
+92. 黑盒闪搜：文件快速搜索
 
-93. 翻译网页：全文翻译【Firefox】
+93. **<mark>浏览器扩展类</mark>**
 
-94. Black Menu for Google：谷歌全家桶应用直达【Firefox/Chrome】
+94. 翻译网页：全文翻译【Firefox】
 
-95. Cookie Quick Manager：Cookie管理【Firefox】
+95. Black Menu for Google：谷歌全家桶应用直达【Firefox/Chrome】
 
-96. Dark Reader：护眼【Firefox】
+96. Cookie Quick Manager：Cookie管理【Firefox】
 
-97. Enhancer for YouTube：YouTube增强【Firefox】
+97. Dark Reader：护眼【Firefox】
 
-98. Evernote Web Clipper：网页剪藏（印象笔记）【Firefox/Chrome】
+98. Enhancer for YouTube：YouTube增强【Firefox】
 
-99. Firefox Multi-Account Containers：账户多开（俗称马甲）【Firefox】
+99. Evernote Web Clipper：网页剪藏（印象笔记）【Firefox/Chrome】
 
-100. floccus bookmarks sync：跨浏览器书签同步（配合坚果云的WebDAV功能）【Firefox/Chrome】👍
+100. Firefox Multi-Account Containers：账户多开（俗称马甲）【Firefox】
 
-101. Imagus：图片放大查看【Firefox/Chrome】
+101. floccus bookmarks sync：跨浏览器书签同步（配合坚果云的WebDAV功能）【Firefox/Chrome】👍
 
-102. KeePass Tusk：网站账户密码自动填充（不过目前浏览器本身都已支持记住密码）【Firefox】
+102. Imagus：图片放大查看【Firefox/Chrome】
 
-103. Tab Session Manager：标签页会话管理（收起之后可以供日后查看或浏览器再次打开时查看）【Firefox/Chrome】👍
+103. KeePass Tusk：网站账户密码自动填充（不过目前浏览器本身都已支持记住密码）【Firefox】
 
-104. ZeroOmega：切换代理（在不同网站之间使用不同的代理）【Firefox/Chrome】
+104. Tab Session Manager：标签页会话管理（收起之后可以供日后查看或浏览器再次打开时查看）【Firefox/Chrome】👍
 
-105. RSS Feed Reader：RSS订阅器（支持账号登录，体验较好，但需代理）【Firefox/Chrome】👍
+105. ZeroOmega：切换代理（在不同网站之间使用不同的代理）【Firefox/Chrome】
 
-106. Tampermonkey：userscript脚本管理器【Firefox/Chrome】
+106. RSS Feed Reader：RSS订阅器（支持账号登录，体验较好，但需代理）【Firefox/Chrome】👍
 
-107. User-Agent Switcher and Manager：浏览器UA切换（解决某些网站非要使用IE/Chrome浏览器的限制）【Firefox】
+107. Tampermonkey：userscript脚本管理器【Firefox/Chrome】
 
-108. Video DownloadHelper：网页视频资源嗅探下载【Firefox】
+108. User-Agent Switcher and Manager：浏览器UA切换（解决某些网站非要使用IE/Chrome浏览器的限制）【Firefox】
 
-109. Emoji：Emoji（在论坛发言、评论时，加个表情）【Firefox/Chrome】
+109. Video DownloadHelper：网页视频资源嗅探下载【Firefox】
 
-110. Smart TOC：自动生成目录（对于阅读文章很有帮助）【Firefox/Chrome】
+110. Emoji：Emoji（在论坛发言、评论时，加个表情）【Firefox/Chrome】
 
-111. Listen 1：音乐播放器（多种音乐源聚合）【Firefox/Chrome】
+111. Smart TOC：自动生成目录（对于阅读文章很有帮助）【Firefox/Chrome】
 
-112. SingleFile：离线保存网页（支持注释/标记/编辑网页然后保存）【Firefox/Chrome】👍
+112. Listen 1：音乐播放器（多种音乐源聚合）【Firefox/Chrome】
 
-113. Flagfox：显示当前网站服务器位置的国旗【Firefox】
+113. SingleFile：离线保存网页（支持注释/标记/编辑网页然后保存）【Firefox/Chrome】👍
 
-114. Country Flags & IP Whois：显示当前网站服务器位置的国旗【Chrome】
+114. Flagfox：显示当前网站服务器位置的国旗【Firefox】
 
-115. Readwise Highlighter：可高亮注释的网页保存稍后阅读（类似于火狐自带的Pocket，但这个体验更好）【Firefox】👍
+115. Country Flags & IP Whois：显示当前网站服务器位置的国旗【Chrome】
 
-116. VivaldiFox：浏览器主题可动态变化（每切换一个网页标签，浏览器主题配色均会跟随网站的主体颜色发生变化）【Firefox】👍
+116. Readwise Highlighter：可高亮注释的网页保存稍后阅读（类似于火狐自带的Pocket，但这个体验更好）【Firefox】👍
 
-117. Selenium IDE：记录/重放与网站的交互过程（即网页操作自动化-宏录制）【Firefox】
+117. VivaldiFox：浏览器主题可动态变化（每切换一个网页标签，浏览器主题配色均会跟随网站的主体颜色发生变化）【Firefox】👍
 
-118. 网页更新提醒：监控并记录网页内容变化，有更新立即通知。【Firefox】
+118. Selenium IDE：记录/重放与网站的交互过程（即网页操作自动化-宏录制）【Firefox】
 
-119. 扩展管理器：一键管理扩展（很智能）【Chrome】👍
+119. 网页更新提醒：监控并记录网页内容变化，有更新立即通知。【Firefox】
 
-120. BewlyBewly：Bilibili 主页面调整【Firefox/Chrome】
+120. 扩展管理器：一键管理扩展（很智能）【Chrome】👍
 
-121. Aria2 Explorer：Aria2 管理器GUI前端。【Chrome】
+121. BewlyBewly：Bilibili 主页面调整【Firefox/Chrome】
 
-122. Pinbox：跨平台收藏【Firefox/Chrome】
+122. Aria2 Explorer：Aria2 管理器GUI前端。【Chrome】
 
-123. 猫抓：网页媒体嗅探工具（用来抓取 m3u8 链接，配合 N_m3u8DL-CLI 下载简直完美）【Firefox/Chrome】
+123. Pinbox：跨平台收藏【Firefox/Chrome】
 
-124. Funnel Search：谷歌搜索高级语法整合器【Chrome】
+124. 猫抓：网页媒体嗅探工具（用来抓取 m3u8 链接，配合 N_m3u8DL-CLI 下载简直完美）【Firefox/Chrome】
 
-125. Similer Sites：相似网站发现【Firefox/Chrome】
+125. Funnel Search：谷歌搜索高级语法整合器【Chrome】
+
+126. Similer Sites：相似网站发现【Firefox/Chrome】
 
 ---
 

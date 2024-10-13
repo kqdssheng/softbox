@@ -17,6 +17,6 @@
 | putty                | 仿终端                                   |
 | RDPWrap              | RDP多会话连接(仅RDPWinst.exe即可实现效果，其余程序为辅助) |
 | USBCopyer            | U盘数据无痕窃取                              |
-| WinHex               | 十六进制编辑器                               |
+| HxD                  | 十六进制编辑器（比WinHex更容易使用）                 |
 | 文件夹隐藏精灵              | 文件夹隐藏                                 |
 | 硬盘安装工具 CGI 3.2       | Ghost镜像备份                             |

@@ -84,73 +84,76 @@
 64. Clink：cmd.exe强化工具（使cmd也支持自动补全、快速复制粘贴、历史记录查看等功能）
 65. Netsetman：网卡配置文件随意切换，免去反锁配置Ip等信息的操作。
 66. Advanced_Installer：应用程序打包器。
-67. Windhawk/Rainmeter：可自定义 Windows 界面布局或显示功能。
-68. [Anytxt Searcher](https://anytxt.net/)：文件内容全文检索引擎。（类似于 Linux 中的 grep 命令）
-69. Recuva：文件误删恢复工具。
-70. **<mark>安卓类</mark>**
-71. 印象笔记：云笔记
-72. 坚果云：跨设备文件同步共享
-73. PDF Reader：PDF阅读器（自认为是安卓最好用的PDF阅读器，支持批注）👍
-74. X-plore：文件管理器（功能挺多）
-75. HTTP FS：Http server（文件局域网传播，对方免客户端安装）
-76. KWGT：窗口部件自定义
-77. VLC：视频播放器（轻巧）
-78. MX 播放器：视频播放器
-79. KPass：密码管理器（目测无网络功能，故无需担心数据上传风险）
-80. FV 悬浮窗：效率工具（喜欢它的自定义任务，相比于AutoJS来说操作难度小很多）
-81. 1DM：IDM安卓版（比ADM较稳定）👍
-82. FireFox：浏览器
-83. 狐猴浏览器：浏览器（谷歌扩展应用商店支持度最好的安卓浏览器）👍
-84. 清浊：文件清理
-85. 绿色守护：后台进程清理（可以腾出更多的运行内存）
-86. 金山词霸：多语言翻译器（下拉框快速翻译、窗口部件快速翻译，避免想翻译还得专门打开软件的麻烦）
-87. Syncthing：文件跨设备同步👍
-88. F-Droid：安卓开源应用管理器（提供的应用质量较高）
-89. APKPure：类谷歌 play 应用商店（种类丰富）
-90. Feeder：RSS订阅器👍
-91. 白马地图：国内3个地图源可自由切换（百度、高德、腾讯）
-92. TVBox：电视直播盒子
-93. ZArchiver：功文件压缩和解压缩工具（完美还原 PC 端使用体验）
-94. VNT：异地组网客户端
-95. 黑盒闪搜：文件快速搜索
-96. Termux：Linux 模拟器。
-97. YTDLnis：视频音频下载器（支持的视频网站众多，主流基本全覆盖）。
-98. MindMaster：思维导图。
-99. **<mark>浏览器扩展类</mark>**
-100. 翻译网页：全文翻译【Firefox】
-101. Black Menu for Google：谷歌全家桶应用直达【Firefox/Chrome】
-102. Cookie Quick Manager：Cookie管理【Firefox】
-103. Dark Reader：护眼【Firefox】
-104. Enhancer for YouTube：YouTube增强【Firefox】
-105. Evernote Web Clipper：网页剪藏（印象笔记）【Firefox/Chrome】
-106. Firefox Multi-Account Containers：账户多开（俗称马甲）【Firefox】
-107. floccus bookmarks sync：跨浏览器书签同步（配合坚果云的WebDAV功能）【Firefox/Chrome】👍
-108. Imagus/浮图秀：图片放大查看【Firefox/Chrome】
-109. KeePass Tusk：网站账户密码自动填充（不过目前浏览器本身都已支持记住密码）【Firefox】
-110. Tab Session Manager：标签页会话管理（收起之后可以供日后查看或浏览器再次打开时查看）【Firefox/Chrome】👍
-111. ZeroOmega：切换代理（在不同网站之间使用不同的代理）【Firefox/Chrome】
-112. RSS Feed Reader：RSS订阅器（支持账号登录，体验较好，但需代理）【Firefox/Chrome】👍
-113. Tampermonkey：userscript脚本管理器【Firefox/Chrome】
-114. User-Agent Switcher and Manager：浏览器UA切换（解决某些网站非要使用IE/Chrome浏览器的限制）【Firefox】
-115. Video DownloadHelper：网页视频资源嗅探下载【Firefox】
-116. Emoji：Emoji（在论坛发言、评论时，加个表情）【Firefox/Chrome】
-117. Smart TOC：自动生成目录（对于阅读文章很有帮助）【Firefox/Chrome】
-118. Listen 1：音乐播放器（多种音乐源聚合）【Firefox/Chrome】
-119. SingleFile：离线保存网页（支持注释/标记/编辑网页然后保存）【Firefox/Chrome】👍
-120. Flagfox：显示当前网站服务器位置的国旗【Firefox】
-121. Country Flags & IP Whois：显示当前网站服务器位置的国旗【Chrome】
-122. Readwise Highlighter：可高亮注释的网页保存稍后阅读（类似于火狐自带的Pocket，但这个体验更好）【Firefox】👍
-123. VivaldiFox：浏览器主题可动态变化（每切换一个网页标签，浏览器主题配色均会跟随网站的主体颜色发生变化）【Firefox】👍
-124. Selenium IDE：记录/重放与网站的交互过程（即网页操作自动化-宏录制）【Firefox】
-125. 网页更新提醒：监控并记录网页内容变化，有更新立即通知。【Firefox】
-126. 扩展管理器：一键管理扩展（很智能）【Chrome】👍
-127. BewlyBewly：Bilibili 主页面调整【Firefox/Chrome】
-128. Aria2 Explorer：Aria2 管理器GUI前端。【Chrome】
-129. Pinbox：跨平台收藏【Firefox/Chrome】
-130. 猫抓：网页媒体嗅探工具（用来抓取 m3u8 链接，配合 N_m3u8DL-CLI 下载简直完美）【Firefox/Chrome】
-131. Funnel Search：谷歌搜索高级语法整合器【Chrome】
-132. Similer Sites：相似网站发现【Firefox/Chrome】
-133. 记事本-在线上：浏览器中的记事本【Chrome】
+67. [Enigma Virtual Box](https://enigmaprotector.com/en/downloads.html)：单文件封装器。
+68. Windhawk/Rainmeter：可自定义 Windows 界面布局或显示功能。
+69. [Anytxt Searcher](https://anytxt.net/)：文件内容全文检索引擎。（类似于 Linux 中的 grep 命令）
+70. Recuva：文件误删恢复工具。
+71. 代理批量检测工具/[unfx-proxy-checker](https://github.com/openproxyspace/unfx-proxy-checker)：代理 IP 有效性批量检测工具。
+72. **<mark>安卓类</mark>**
+73. 印象笔记：云笔记
+74. 坚果云：跨设备文件同步共享
+75. PDF Reader：PDF阅读器（自认为是安卓最好用的PDF阅读器，支持批注）👍
+76. X-plore：文件管理器（功能挺多）
+77. HTTP FS：Http server（文件局域网传播，对方免客户端安装）
+78. KWGT：窗口部件自定义
+79. VLC：视频播放器（轻巧）
+80. MX 播放器：视频播放器
+81. KPass：密码管理器（目测无网络功能，故无需担心数据上传风险）
+82. FV 悬浮窗：效率工具（喜欢它的自定义任务，相比于AutoJS来说操作难度小很多）
+83. 1DM：IDM安卓版（比ADM较稳定）👍
+84. FireFox：浏览器
+85. 狐猴浏览器：浏览器（谷歌扩展应用商店支持度最好的安卓浏览器）👍
+86. 清浊：文件清理
+87. 绿色守护：后台进程清理（可以腾出更多的运行内存）
+88. 金山词霸：多语言翻译器（下拉框快速翻译、窗口部件快速翻译，避免想翻译还得专门打开软件的麻烦）
+89. Syncthing：文件跨设备同步👍
+90. F-Droid：安卓开源应用管理器（提供的应用质量较高）
+91. APKPure：类谷歌 play 应用商店（种类丰富）
+92. Feeder：RSS订阅器👍
+93. 白马地图：国内3个地图源可自由切换（百度、高德、腾讯）
+94. TVBox：电视直播盒子
+95. ZArchiver：功文件压缩和解压缩工具（完美还原 PC 端使用体验）
+96. VNT：异地组网客户端
+97. 黑盒闪搜：文件快速搜索
+98. Termux：Linux 模拟器。
+99. YTDLnis：视频音频下载器（支持的视频网站众多，主流基本全覆盖）。
+100. MindMaster：思维导图。
+101. GlassWire：数据流量监视器。（支持实时监控流量在被哪些应用所使用）
+102. **<mark>浏览器扩展类</mark>**
+103. 翻译网页：全文翻译【Firefox】
+104. Black Menu for Google：谷歌全家桶应用直达【Firefox/Chrome】
+105. Cookie Quick Manager：Cookie管理【Firefox】
+106. Dark Reader：护眼【Firefox】
+107. Enhancer for YouTube：YouTube增强【Firefox】
+108. Evernote Web Clipper：网页剪藏（印象笔记）【Firefox/Chrome】
+109. Firefox Multi-Account Containers：账户多开（俗称马甲）【Firefox】
+110. floccus bookmarks sync：跨浏览器书签同步（配合坚果云的WebDAV功能）【Firefox/Chrome】👍
+111. Imagus/浮图秀：图片放大查看【Firefox/Chrome】
+112. KeePass Tusk：网站账户密码自动填充（不过目前浏览器本身都已支持记住密码）【Firefox】
+113. Tab Session Manager：标签页会话管理（收起之后可以供日后查看或浏览器再次打开时查看）【Firefox/Chrome】👍
+114. ZeroOmega：切换代理（在不同网站之间使用不同的代理）【Firefox/Chrome】
+115. RSS Feed Reader：RSS订阅器（支持账号登录，体验较好，但需代理）【Firefox/Chrome】👍
+116. Tampermonkey：userscript脚本管理器【Firefox/Chrome】
+117. User-Agent Switcher and Manager：浏览器UA切换（解决某些网站非要使用IE/Chrome浏览器的限制）【Firefox】
+118. Video DownloadHelper：网页视频资源嗅探下载【Firefox】
+119. Emoji：Emoji（在论坛发言、评论时，加个表情）【Firefox/Chrome】
+120. Smart TOC：自动生成目录（对于阅读文章很有帮助）【Firefox/Chrome】
+121. Listen 1：音乐播放器（多种音乐源聚合）【Firefox/Chrome】
+122. SingleFile：离线保存网页（支持注释/标记/编辑网页然后保存）【Firefox/Chrome】👍
+123. Flagfox：显示当前网站服务器位置的国旗【Firefox】
+124. Country Flags & IP Whois：显示当前网站服务器位置的国旗【Chrome】
+125. Readwise Highlighter：可高亮注释的网页保存稍后阅读（类似于火狐自带的Pocket，但这个体验更好）【Firefox】👍
+126. VivaldiFox：浏览器主题可动态变化（每切换一个网页标签，浏览器主题配色均会跟随网站的主体颜色发生变化）【Firefox】👍
+127. Selenium IDE：记录/重放与网站的交互过程（即网页操作自动化-宏录制）【Firefox】
+128. 网页更新提醒：监控并记录网页内容变化，有更新立即通知。【Firefox】
+129. 扩展管理器：一键管理扩展（很智能）【Chrome】👍
+130. BewlyBewly：Bilibili 主页面调整【Firefox/Chrome】
+131. Aria2 Explorer：Aria2 管理器GUI前端。【Chrome】
+132. Pinbox：跨平台收藏【Firefox/Chrome】
+133. 猫抓：网页媒体嗅探工具（用来抓取 m3u8 链接，配合 N_m3u8DL-CLI 下载简直完美）【Firefox/Chrome】
+134. Funnel Search：谷歌搜索高级语法整合器【Chrome】
+135. Similer Sites：相似网站发现【Firefox/Chrome】
+136. 记事本-在线上：浏览器中的记事本【Chrome】
 
 ---
 

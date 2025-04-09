@@ -1,22 +1,22 @@
-## <div align="center"><b>软件百宝箱</b></div>
+# 🛠️软件百宝箱
 
 > **收藏** 小巧、单文件、可直接运行的软件（仅限于windows）；
-> 
+>
 > **记录** 需要安装/解压、但功能强大的应用（不限于windows，还包括安卓应用、浏览器扩展等）。
 
-### **[收藏](https://github.com/kqdssheng/softbox)**
+## **[收藏](https://github.com/kqdssheng/softbox)**
 
-| 类别                                                 | 说明                                                                  |
-| -------------------------------------------------- | ------------------------------------------------------------------- |
-| [Cmd](./Cmd/README.md)                             | 命令行工具集                                                              |
-| [Msic](./Msic/README.md)                           | 软件来源五花八门的工具集                                                        |
-| [NirSoft](./NirSoft/README.md)                     | 来自 [NirSoft 官方](https://www.nirsoft.net/)提供的系统维护工具集                 |
-| [Sordum](./Sordum/README.md)                       | 来自 [Sordum 官方](https://www.sordum.org/)提供的系统维护工具集                   |
-| [SysinternalsSuite](./SysinternalsSuite/README.md) | 来自[微软官方](https://learn.microsoft.com/zh-cn/sysinternals/)提供的系统维护工具集 |
+| 类别                                                         | 说明                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Cmd](https://github.com/kqdssheng/softbox/blob/main/Cmd/README.md) | 命令行工具集                                                 |
+| [Msic](https://github.com/kqdssheng/softbox/blob/main/Msic/README.md) | 软件来源五花八门的工具集                                     |
+| [NirSoft](https://github.com/kqdssheng/softbox/blob/main/NirSoft/README.md) | 来自 [NirSoft 官方](https://www.nirsoft.net/)提供的系统维护工具集 |
+| [Sordum](https://github.com/kqdssheng/softbox/blob/main/Sordum/README.md) | 来自 [Sordum 官方](https://www.sordum.org/)提供的系统维护工具集 |
+| [SysinternalsSuite](https://github.com/kqdssheng/softbox/blob/main/SysinternalsSuite/README.md) | 来自[微软官方](https://learn.microsoft.com/zh-cn/sysinternals/)提供的系统维护工具集 |
 
 ---
 
-### **[记录](https://pan.baidu.com/s/1KrVdgYB1ezEDNbZJpBEXlg?pwd=6666)**
+## **[记录](https://pan.baidu.com/s/1KrVdgYB1ezEDNbZJpBEXlg?pwd=6666)**
 
 1. **<mark>Windows 类</mark>**
 2. MobaXterm：远程终端登录（功能齐全：内置多种服务器角色、本地端支持伪Linux命令）👍

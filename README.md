@@ -22,8 +22,8 @@
 
 1. ABBYY FineReader PDF：相当于一个离线版的 OCR 文字识别工具。
 2. AcronisTrueImage：ATI 系统备份还原（类似 Windows 自带系统还原点创建工具）
-3. Advanced_Installer：应用程序打包器。
-4. AltDrag：通过 Alt 键配合鼠标实现对窗口的控制（拖动、缩放、透明）
+3. [Advanced_Installer](https://www.advancedinstaller.com/)：应用程序打包器。
+4. [AltDrag](https://github.com/stefansundin/altdrag)：通过 Alt 键配合鼠标实现对窗口的控制（拖动、缩放、透明）
 5. anaconda3：针对 python 的版本管理器
 6. [Anytxt Searcher](https://anytxt.net/)：文件内容全文检索引擎。（类似于 Linux 中的 grep 命令）
 7. [AquaSnap](https://www.nurgo-software.com/products/aquasnap)：窗口管理器。
@@ -32,70 +32,70 @@
 10. [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)/[Nuitka](https://github.com/Nuitka/Nuitka)：py 文件转 exe/elf 文件转换器。
 11. AutoHotkey：面向自定义快捷键的自动化脚本语言（功能上类似于 Autoit v3，只不过触发方式是通过快捷键）
 12. Autoit v3：图形界面脚本语言（仅适用 Windows 系统）
-13. Bandicam：体验非常好的一款录屏软件
-14. BitComet：比特下载器（适合搭代理下载国外镜像，国内资源还是以迅雷为主）
+13. [Bandicam](https://www.bandicam.cn/)：体验非常好的一款录屏软件
+14. [BitComet](https://www.bitcomet.com/en)：比特下载器（适合搭代理下载国外镜像，国内资源还是以迅雷为主）
 15. [Chisel](https://github.com/jpillora/chisel)：基于 TCP/UDP 的流量通道 👍
-16. Clink：cmd.exe 强化工具（使 cmd 也支持自动补全、快速复制粘贴、历史记录查看等功能）
+16. [Clink](https://github.com/chrisant996/clink)：cmd.exe 强化工具（使 cmd 也支持自动补全、快速复制粘贴、历史记录查看等功能）
 17. [Cygwin64](https://www.cygwin.com/)：Windows 下类 UNIX 模拟环境（也可以使用 Windows 中 WLS：Ubuntu、kali）
 18. [DesktopNote](https://github.com/changbowen/DesktopNote)：桌面记事本（轻便精巧版）。
 19. DiskGeniusEng_Pro：磁盘分割管理器
-20. Ditto：剪切板强化扩展
+20. [Ditto](https://sabrogden.github.io/Ditto/)：剪切板强化扩展
 21. [Enigma Virtual Box](https://enigmaprotector.com/en/downloads.html)：单文件封装器。
-22. FastCopy：超快的文件复制与删除（对于复制或删除大且碎片化文件的目录简直不要太爽）👍
-23. FileZilla FTP Client：FTP 客户端
+22. [FastCopy](https://fastcopy.jp/)：超快的文件复制与删除（对于复制或删除大且碎片化文件的目录简直不要太爽）👍
+23. [FileZilla](https://filezilla-project.org/)：FTP 客户端
 24. [FlyOOBE](https://github.com/builtbybel/FlyOOBE)：绕过 Win11 安装的硬件限制，让普通电脑依旧可以安装 Win11。
-25. FreeFileSync：文件夹对比及同步（支持对本地文件进行监视，进而实时同步，即 RealTimeSync 功能）👍
+25. [FreeFileSync](https://freefilesync.org/)：文件夹对比及同步（支持对本地文件进行监视，进而实时同步，即 RealTimeSync 功能）👍
 26. [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)：frp 内网穿透客户端的 GUI 界面版本。
 27. [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp)：离线下载微软应用商店中的软件。
-28. GitExtensions/TortoiseGit：Git 图形界面（功能强劲，将命令行 git 的大部分功能都以图形化显示）👍
-29. HandBrake：视频格式转换器（容量高压缩比，清晰度低损耗）👍
+28. [GitKraken](https://www.gitkraken.com/git-client)：Git 图形化客户端（[其它替代品](https://git-scm.com/tools/guis)）👍
+29. [HandBrake](https://handbrake.fr/)：视频格式转换器（容量高压缩比，清晰度低损耗）👍
 30. IDM/[NDM](https://neatdownloadmanager.com/index.php/en/)：多线程下载器。
 31. [Iriun](https://iriun.com/)：共享手机摄像头给电脑。【同时能共享麦克风给电脑】
 32. JavE：全能型 Ascii 绘图工具（用字母画图写字）👍
 33. [Johnny](https://openwall.info/wiki/john/johnny)：密码破解器 john 的图形界面版（支持对 pdf、office、zip、rar 等加密文件进行密码破解）👍
-34. KeePass：密码管理器
+34. [KeePass](https://keepass.info/)：密码管理器
 35. Kleopatra：文件加解密（相当于 Linux 下的 GPG）
-36. Listary：文件快速搜索（个人觉得比 everything 好用）
+36. [Listary](https://www.listary.com/download)：文件快速搜索（个人觉得比 everything 好用）
 37. [LiteMonitor](https://github.com/Diorser/LiteMonitor)：电脑硬件资源（CPU、RAM 等）监控软件。
 38. [MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect)：鼠标炫酷特效。
 39. [MobaXterm](https://mobaxterm.mobatek.net/)/SecureCRTPortable/[Xterminal](https://www.xterminal.cn/)：远程终端管理器👍
 40. [mumu 模拟器](https://mumu.163.com/)：Windows 上的安卓模拟器。
-41. Navicat/[dbeaver](https://github.com/dbeaver/dbeaver)：数据库图形界面客户端（支持多种数据库的连接）
-42. Netsetman：网卡配置文件随意切换，免去反锁配置 Ip 等信息的操作。
-43. PortableApps.com：可携式绿色软件平台（可跟随 U 盘随查随用的各种绿色软件整合平台）
+41. [Navicat](https://www.navicat.com.cn/products)/[dbeaver](https://github.com/dbeaver/dbeaver)：数据库图形界面客户端（支持多种数据库的连接）
+42. [NetSetMan](https://www.netsetman.com/en/freeware)：网卡配置文件随意切换，免去反锁配置 Ip 等信息的操作。
+43. [PortableApps](https://portableapps.com/)：可携式绿色软件平台（可跟随 U 盘随查随用的各种绿色软件整合平台）
 44. [Privexec](https://github.com/M2Team/Privexec)：类似于 sudo 一样，支持以指定的用户身份去运行程序。
 45. [systeminformer](https://github.com/winsiderss/systeminformer)：功能更强的任务管理器 👍
-46. Proxifier：分应用代理 👍
+46. [Proxifier](https://www.proxifier.com/)：分应用代理 👍
 47. PuloversMacroCreator：基于 AutoHotkey 语言的宏录制器。
 48. [Pycharm Community ](https://www.jetbrains.com/zh-cn/pycharm/download/other.html)：针对 Python 编程的智能 IDE。
-49. QTTabBar：资源管理器强化扩展
-50. QuickLook：快速预览所支持文件的内容（基本上常见的文件均支持）
-51. RaiDrive：云存储本地挂载（类似于 windows 磁盘映射，但这个支持的存储类型丰富）
+49. [QTTabBar](http://qttabbar.wikidot.com/)：资源管理器强化扩展
+50. [QuickLook](https://github.com/QL-Win/QuickLook)：快速预览所支持文件的内容（基本上常见的文件均支持）
+51. [RaiDrive](https://www.raidrive.com/zh-Hans/)：云存储本地挂载（类似于 windows 磁盘映射，但这个支持的存储类型丰富）
 52. Recuva：文件误删恢复工具。
 53. RegWorkshop：注册表管理器
-54. Sandboxie：软件沙盘（相比于打开虚拟机来测试来路不明的软件来说这个更轻便）
+54. [Sandboxie](https://sandboxie-plus.com/)：软件沙盘（相比于打开虚拟机来测试来路不明的软件来说这个更轻便）
 55. [Scoop](https://github.com/ScoopInstaller/Scoop)/Choco/Winget：Windows 命令行包管理器。（winget 可配合 https://winstall.app/ 实现一键批量安装）👍
 56. [Screego](https://github.com/screego/server)：基于浏览器的远程桌面共享。
-57. ScreenToGif：Gif 动画录制工具
+57. [ScreenToGif]()：Gif 动画录制工具
 58. ShanaeEcoder：视频压制软件（又称 FFmpeg 最强套壳）
-59. ShareX/FastStone Capture：截图录屏
+59. [ShareX](https://getsharex.com/)：截图录屏
 60. Shimeji/[BongoCat](https://github.com/ayangweb/BongoCat)/[Mate-Engine](https://github.com/shinyflvre/Mate-Engine)：PC 桌面宠物
 61. smartpackager：将需要多次点击安装的 exe 安装包直接转换为点击一次即安装的 msi 安装格式
 62. Stardock_Fences_v4.12：桌面文件整理
 63. [Stretchly](https://github.com/hovancik/stretchly)/Lris Pro：久坐休息提醒。
-64. SwitchHosts：快速切换系统 hosts 源
+64. [SwitchHosts](https://switchhosts.app/zh)：快速切换系统 hosts 源
 65. [SyncTrayzor](https://github.com/canton7/SyncTrayzor)：跨设备文件同步工具（区别于常规的云端存储同步，工作方式类似于去中心化的 P2P 技术，最重要的是适用于局域网或互联网的网络环境。配合安卓客户端 Syncthing 可实现手机电脑文件随时同步的效果）👍
 66. [tiny-rdm](https://github.com/tiny-craft/tiny-rdm)：一个轻量且现代化的 Redis 客户端。
-67. ToolsFx：密码学工具箱
+67. [ToolsFx](https://github.com/Leon406/ToolsFx)：密码学工具箱
 68. [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)：网速监控悬浮显示（除了监视网速外，插件功能还支持天气、任务栏小说阅读功能）
-69. Treesize Free【WizTree】：磁盘空间分析
+69. [Treesize](https://treesize.cn/)/WizTree：磁盘空间分析
 70. [Typora-Unlocker](https://github.com/743859910/Typora)：Typora 破解器。
 71. [typora_plugin](https://github.com/obgnail/typora_plugin)：Typora 功能强化插件。👍
-72. Ventoy：U 盘启动制作工具（配合优启通、微 PE 等 PE ISO 镜像，可以实现通过一个 U 盘进入多个 PE 环境的效果，进而随意选择自己喜爱的 PE 环境进行系统的安装）👍
+72. [Ventoy](https://www.ventoy.net/cn/index.html)：U 盘启动制作工具（配合优启通、微 PE 等 PE ISO 镜像，可以实现通过一个 U 盘进入多个 PE 环境的效果，进而随意选择自己喜爱的 PE 环境进行系统的安装）👍
 73. [Vfox](https://github.com/version-fox/vfox)：跨平台版本版本管理器（支持众多常见的 SDK，如 java、python、dotnet 等）
 74. [Vimo Rebinder](https://kqdssheng.lanzoub.com/io2Kr39ex63e)：快捷键管理器。
 75. [VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser)：免登录、支持插件管理的指纹浏览器。
-76. VLC：媒体播放器（支持功能插件扩展）
+76. [VLC](https://www.videolan.org/)：媒体播放器（支持功能插件扩展）
 77. VMWare Workstation Pro：虚拟机（感觉比 Virtual Box 好用）
 78. [Vnt](https://github.com/lbl8603/vnt)/[tailscale](https://github.com/tailscale/tailscale)：异地组网、内网穿透工具（配合 chisel 可更高效的实现 ip 转发、端口映射功能）👍
 79. [VSCode](https://code.visualstudio.com/download)：支持多语言编程的 IDE。【注：针对 BASH 编程的插件：Shell Syntax、shellman、shell-format、ShellCheck。】
@@ -108,42 +108,48 @@
 86. Wsusoffline：Windows 系统离线升级（特殊情况下可能会用到）
 87. [zRenamer](https://abc100.net/854/)：文件批量改名。
 88. 代理批量检测工具/[unfx-proxy-checker](https://github.com/openproxyspace/unfx-proxy-checker)：代理 IP 有效性批量检测工具。
-89. 印象笔记：云笔记（支持网页剪藏）
-90. 坚果云：跨设备文件同步共享（支持 WebDAV，算是国内外云盘中支持 WebDAV 最好的）👍
-91. 方方格子、iSlide、小恐龙公文排版助手：Office 办公三件套强化插件。
-92. [格式工厂](http://pcfreetime.com/formatfactory/CN/download.html)：功能全面的格式转换器（支持转换几乎所有主流的多媒体文件格式）
-93. 科来网络分析系统：相当于 wireshark 抓包工具的补充，wireshark 只能读、分析数据包，而这款软件却支持分析、编辑数据包。
-94. **----- 以下为临时未排版应用 -----**
+89. 坚果云：跨设备文件同步共享（支持 WebDAV，算是国内外云盘中支持 WebDAV 最好的）👍
+90. 方方格子/iSlide/小恐龙公文排版助手：Office 办公三件套强化插件。
+91. [格式工厂](http://pcfreetime.com/formatfactory/CN/download.html)：功能全面的格式转换器（支持转换几乎所有主流的多媒体文件格式）
+92. [科来网络分析系统](https://www.colasoft.com.cn/downloads/csnas)：相当于 wireshark 抓包工具的补充，wireshark 只能读、分析数据包，而这款软件却支持分析、编辑数据包。
+93. **----- 以下为临时未排版应用 -----**
 
 ### **Linux 类**
 
 1. [asciinema](https://github.com/asciinema/asciinema)/[vhs](https://github.com/charmbracelet/vhs)：命令行会话录制、播放工具。
-2. [chsrc](https://github.com/RubyMetric/chsrc)：全平台换源工具。
-3. [clash-for-linux](https://github.com/wnlen/clash-for-linux)/[clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install)：命令行版的 clash 代理。
-4. [fzf](https://github.com/junegunn/fzf)：文件模糊查找器。【`ps aux | fzf`】
-5. [mycli](https://github.com/dbcli/mycli)：可以高亮且自动补全命令的 mysql 命令行客户端。【注：官方除了支持 mysql 外，还有 专门支持 [mssql](https://github.com/dbcli/mssql-cli)、[postgrep](https://github.com/dbcli/pgcli) 等数据库的命令行自动补全工具。】
-6. [ncdu](https://dev.yorhel.nl/ncdu)：一个文本界面的磁盘使用分析器，比 du 更快更直观。
-7. [nethogs](https://github.com/raboof/nethogs)：像 top 那样监视进程的网络流量收发情况。
-8. [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)：对 Linux 的 shell 进行美化，且支持插件和主题。【插件推荐：z aliases、tldr、themes、thefuck、zsh-autosuggestions。主题推荐：maran。】
-9. [reinstall](https://github.com/bin456789/reinstall)：在 VPS 上一键重装指定的操作系统。👍
-10. [rush](https://github.com/shenwei356/rush)：比 xarg 更灵活且更快的多任务并行处理工具。
-11. [sqlit](https://github.com/Maxteabag/sqlit)：命令行 TUI 类型的数据库客户端（类似 Navicate），主流的数据库均支持。
-12. [sshpass](https://github.com/kevinburke/sshpass)：让 ssh 连接脚本化，不再需要进行密码输入交互。
-13. [thefuck](https://github.com/nvbn/thefuck)：命令输错自动纠正。
-14. [tldr](https://github.com/tldr-pages/tldr)/[tealder](https://github.com/tealdeer-rs/tealdeer) ：命令行参数用法速查。
-15. [translate-shell](https://github.com/soimort/translate-shell)：命令行翻译工具。
-16. [trash-cli](https://github.com/andreafrancia/trash-cli)/[safe-rm](https://github.com/kaelzhang/shell-safe-rm)：命令行回收站。防止意外的 `rm -rf /` 的破坏。【trash-cli 采用回收站（`.local/share/Trash/`）的方式、safe-rm 采用重要目录加黑名单跳过的方式】
-17. [vfox](https://github.com/version-fox/vfox)：版本控制器。
-18. [x-cmd](https://cn.x-cmd.com/)：一条命令使用多种工具，有点类似于 Windows 中的 scoop 包管理器。
-19. **----- 其它命令 -----**
-20. argc：智能解析 BASH 命令行参数（适合在 BASH 脚本中使用）
-21. links2/lynx/eLinks/w3m：命令行浏览器。
-22. make-ssl-cert：自动生成 HTTPS 证书。
-23. [nginxproxymanager](https://github.com/NginxProxyManager/nginx-proxy-manager)：nginx 反向代理服务，仅需在 web 端进行简单的配置即可实现主机的反向代理。
-24. [proxyadmin](https://github.com/snail007/proxy_admin_free)：高性能全功能代理服务。支持通过网页端快速的部署 http 代理、https 代理、socks5 代理、内网穿透、内网穿透 p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket 代理、TCP 代理、UDP 代理、DNS 代理、DNS 加密代理。
-25. stunnel：指定不支持 TLS 协议的服务实现在 TLS 通道上传输数据。
-26. [winBoat](https://www.winboat.app/)/WinApps for Linux：在 Linux 桌面上无缝运行 Windows 应用程序。
-27. wine：在 Linux 环境下运行/安装 Windows 环境下的应用程序。
+2. [bat](https://github.com/sharkdp/bat)：cat 的高级版本，支持多种编程语言的语法高亮显示。
+3. [btop](https://github.com/aristocratos/btop)/[htop](https://github.com/htop-dev/htop)：进程查看器 top 的现代化版本。
+4. [chsrc](https://github.com/RubyMetric/chsrc)：全平台换源工具。
+5. [clash-for-linux](https://github.com/wnlen/clash-for-linux)/[clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install)：命令行版的 clash 代理。
+6. [duf](https://github.com/muesli/duf)： 磁盘使用状况查看器，df 替代品。
+7. [fd](https://github.com/sharkdp/fd)：比 find 更快、使用更简单的文件搜索工具。
+8. [fzf](https://github.com/junegunn/fzf)：文件模糊查找器。【`ps aux | fzf`】
+9. [gping](https://github.com/orf/gping)：图形化显示网络延迟状况，比 ping 更直观。
+10. [mycli](https://github.com/dbcli/mycli)：可以高亮且自动补全命令的 mysql 命令行客户端。【注：官方除了支持 mysql 外，还有 专门支持 [mssql](https://github.com/dbcli/mssql-cli)、[postgrep](https://github.com/dbcli/pgcli) 等数据库的命令行自动补全工具。】
+11. [ncdu](https://dev.yorhel.nl/ncdu)/[dust](https://github.com/bootandy/dust)：一个文本界面的磁盘空间分析器，比 du 更快更直观。
+12. [nethogs](https://github.com/raboof/nethogs)：像 top 那样监视进程的网络流量收发情况。
+13. [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)：对 Linux 的 shell 进行美化，且支持插件和主题。【插件推荐：z aliases、tldr、themes、thefuck、zsh-autosuggestions。主题推荐：maran。】
+14. [reinstall](https://github.com/bin456789/reinstall)：在 VPS 上一键重装指定的操作系统。👍
+15. [rush](https://github.com/shenwei356/rush)：比 xarg 更灵活且更快的多任务并行处理工具。
+16. [sqlit](https://github.com/Maxteabag/sqlit)：命令行 TUI 类型的数据库客户端（类似 Navicate），主流的数据库均支持。
+17. [sshpass](https://github.com/kevinburke/sshpass)：让 ssh 连接脚本化，不再需要进行密码输入交互。
+18. [thefuck](https://github.com/nvbn/thefuck)：命令输错自动纠正。
+19. [tldr](https://github.com/tldr-pages/tldr)/[tealder](https://github.com/tealdeer-rs/tealdeer) ：命令行参数用法速查。
+20. [translate-shell](https://github.com/soimort/translate-shell)：命令行翻译工具。
+21. [trash-cli](https://github.com/andreafrancia/trash-cli)/[safe-rm](https://github.com/kaelzhang/shell-safe-rm)：命令行回收站。防止意外的 `rm -rf /` 的破坏。【trash-cli 采用回收站（`.local/share/Trash/`）的方式、safe-rm 采用重要目录加黑名单跳过的方式】
+22. [vfox](https://github.com/version-fox/vfox)：可拓展的版本控制器，轻松管理工具或应用项目的运行环境。
+23. [x-cmd](https://cn.x-cmd.com/)：一条命令使用多种工具，有点类似于 Windows 中的 scoop 包管理器。
+24. [yazi](https://github.com/sxyazi/yazi)：终端文件管理器。
+25. [zoxide](https://github.com/ajeetdsouza/zoxide)：更智能的 cd 命令替代品。
+26. **----- 其它命令 -----**
+27. argc：智能解析 BASH 命令行参数（适合在 BASH 脚本中使用）
+28. links2/lynx/eLinks/w3m：命令行浏览器。
+29. make-ssl-cert：自动生成 HTTPS 证书。
+30. [nginxproxymanager](https://github.com/NginxProxyManager/nginx-proxy-manager)：nginx 反向代理服务，仅需在 web 端进行简单的配置即可实现主机的反向代理。
+31. [proxyadmin](https://github.com/snail007/proxy_admin_free)：高性能全功能代理服务。支持通过网页端快速的部署 http 代理、https 代理、socks5 代理、内网穿透、内网穿透 p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket 代理、TCP 代理、UDP 代理、DNS 代理、DNS 加密代理。
+32. stunnel：指定不支持 TLS 协议的服务实现在 TLS 通道上传输数据。
+33. [winBoat](https://www.winboat.app/)/WinApps for Linux：在 Linux 桌面上无缝运行 Windows 应用程序。
+34. [wine](https://appdb.winehq.org/)：在 Linux 环境下运行/安装 Windows 环境下的应用程序。
 
 ### **Android 类**
 

@@ -35,86 +35,87 @@
 13. Autoit v3：图形界面脚本语言（仅适用 Windows 系统）
 14. [Bandicam](https://www.bandicam.cn/)：体验非常好的一款录屏软件
 15. [BitComet](https://www.bitcomet.com/en)：比特下载器（适合搭代理下载国外镜像，国内资源还是以迅雷为主）
-16. [Chisel](https://github.com/jpillora/chisel)：基于 TCP/UDP 的流量通道 👍
-17. [Clink](https://github.com/chrisant996/clink)：cmd.exe 强化工具（使 cmd 也支持自动补全、快速复制粘贴、历史记录查看等功能）
-18. [Cygwin64](https://www.cygwin.com/)：Windows 下类 UNIX 模拟环境（也可以使用 Windows 中 WLS：Ubuntu、kali）
-19. [DesktopNote](https://github.com/changbowen/DesktopNote)：桌面记事本（轻便精巧版）。
-20. DiskGeniusEng_Pro：磁盘分割管理器
-21. [Ditto](https://sabrogden.github.io/Ditto/)：剪切板强化扩展
-22. [Enigma Virtual Box](https://enigmaprotector.com/en/downloads.html)：单文件封装器。
-23. [FastCopy](https://fastcopy.jp/)：超快的文件复制与删除（对于复制或删除大且碎片化文件的目录简直不要太爽）👍
-24. [FileZilla](https://filezilla-project.org/)：FTP 客户端
-25. [FlyOOBE](https://github.com/builtbybel/FlyOOBE)：绕过 Win11 安装的硬件限制，让普通电脑依旧可以安装 Win11。
-26. [FreeFileSync](https://freefilesync.org/)：文件夹对比及同步（支持对本地文件进行监视，进而实时同步，即 RealTimeSync 功能）👍
-27. [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)：frp 内网穿透客户端的 GUI 界面版本。
-28. [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp)：离线下载微软应用商店中的软件。
-29. [GitKraken](https://www.gitkraken.com/git-client)：Git 图形化客户端（[其它替代品](https://git-scm.com/tools/guis)）👍
-30. [HandBrake](https://handbrake.fr/)：视频格式转换器（容量高压缩比，清晰度低损耗）👍
-31. IDM/[NDM](https://neatdownloadmanager.com/index.php/en/)：多线程下载器。
-32. [Iriun](https://iriun.com/)：共享手机摄像头给电脑。【同时能共享麦克风给电脑】
-33. JavE：全能型 Ascii 绘图工具（用字母画图写字）👍
-34. [Johnny](https://openwall.info/wiki/john/johnny)：密码破解器 john 的图形界面版（支持对 pdf、office、zip、rar 等加密文件进行密码破解）👍
-35. [KeePass](https://keepass.info/)：密码管理器
-36. Kleopatra：文件加解密（相当于 Linux 下的 GPG）
-37. [Listary](https://www.listary.com/download)：文件快速搜索（个人觉得比 everything 好用）
-38. [LiteMonitor](https://github.com/Diorser/LiteMonitor)：电脑硬件资源（CPU、RAM 等）监控软件。
-39. [MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect)：鼠标炫酷特效。
-40. [MobaXterm](https://mobaxterm.mobatek.net/)/SecureCRTPortable/[Xterminal](https://www.xterminal.cn/)：远程终端管理器 👍
-41. [mumu 模拟器](https://mumu.163.com/)：Windows 上的安卓模拟器。
-42. [Navicat](https://www.navicat.com.cn/products)/[dbeaver](https://github.com/dbeaver/dbeaver)：数据库图形界面客户端（支持多种数据库的连接）
-43. [NetSetMan](https://www.netsetman.com/en/freeware)：网卡配置文件随意切换，免去反锁配置 Ip 等信息的操作。
-44. [Openscreen](https://github.com/siddharthvaddem/openscreen)：鼠标跟踪放大录屏工具。
-45. [PortableApps](https://portableapps.com/)：可携式绿色软件平台（可跟随 U 盘随查随用的各种绿色软件整合平台）
-46. [Privexec](https://github.com/M2Team/Privexec)：类似于 sudo 一样，支持以指定的用户身份去运行程序。
-47. [Proxifier](https://www.proxifier.com/)：分应用代理 👍
-48. PuloversMacroCreator：基于 AutoHotkey 语言的宏录制器。
-49. [Pycharm Community ](https://www.jetbrains.com/zh-cn/pycharm/download/other.html)：针对 Python 编程的智能 IDE。
-50. [QTTabBar](http://qttabbar.wikidot.com/)：资源管理器强化扩展
-51. [QuickLook](https://github.com/QL-Win/QuickLook)：快速预览所支持文件的内容（基本上常见的文件均支持）
-52. [RaiDrive](https://www.raidrive.com/zh-Hans/)：云存储本地挂载（类似于 windows 磁盘映射，但这个支持的存储类型丰富）
-53. Recuva：文件误删恢复工具。
-54. RegWorkshop：注册表管理器
-55. [Sandboxie](https://sandboxie-plus.com/)：软件沙盘（相比于打开虚拟机来测试来路不明的软件来说这个更轻便）
-56. [Scoop](https://github.com/ScoopInstaller/Scoop)/Choco/Winget：Windows 命令行包管理器。（winget 可配合 https://winstall.app/ 实现一键批量安装）👍
-57. [Screego](https://github.com/screego/server)：基于浏览器的远程桌面共享。
-58. [ScreenToGif](https://www.screentogif.com/)：Gif 动画录制工具
-59. ShanaeEcoder：视频压制软件（又称 FFmpeg 最强套壳）
-60. [ShareX](https://getsharex.com/)：截图录屏
-61. Shimeji/[BongoCat](https://github.com/ayangweb/BongoCat)/[Mate-Engine](https://github.com/shinyflvre/Mate-Engine)：PC 桌面宠物
-62. smartpackager：将需要多次点击安装的 exe 安装包直接转换为点击一次即安装的 msi 安装格式
-63. Stardock_Fences_v4.12：桌面文件整理
-64. [Stretchly](https://github.com/hovancik/stretchly)/Lris Pro：久坐休息提醒。
-65. [SwitchHosts](https://switchhosts.app/zh)：快速切换系统 hosts 源
-66. [SyncTrayzor](https://github.com/canton7/SyncTrayzor)：跨设备文件同步工具（区别于常规的云端存储同步，工作方式类似于去中心化的 P2P 技术，最重要的是适用于局域网或互联网的网络环境。配合安卓客户端 Syncthing 可实现手机电脑文件随时同步的效果）👍
-67. [systeminformer](https://github.com/winsiderss/systeminformer)：功能更强的任务管理器 👍
-68. [tiny-rdm](https://github.com/tiny-craft/tiny-rdm)：一个轻量且现代化的 Redis 客户端。
-69. [ToolsFx](https://github.com/Leon406/ToolsFx)：密码学工具箱
-70. [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)：网速监控悬浮显示（除了监视网速外，插件功能还支持天气、任务栏小说阅读功能）
-71. [Treesize](https://treesize.cn/)/WizTree：磁盘空间分析
-72. [Typora-Unlocker](https://github.com/743859910/Typora)：Typora 破解器。
-73. [typora_plugin](https://github.com/obgnail/typora_plugin)：Typora 功能强化插件。👍
-74. [Ventoy](https://www.ventoy.net/cn/index.html)：U 盘启动制作工具（配合优启通、微 PE 等 PE ISO 镜像，可以实现通过一个 U 盘进入多个 PE 环境的效果，进而随意选择自己喜爱的 PE 环境进行系统的安装）👍
-75. [Vfox](https://github.com/version-fox/vfox)：跨平台版本版本管理器（支持众多常见的 SDK，如 java、python、dotnet 等）
-76. [Vimo Rebinder](https://kqdssheng.lanzoub.com/io2Kr39ex63e)：快捷键管理器。
-77. [VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser)：免登录、支持插件管理的指纹浏览器。
-78. [VLC](https://www.videolan.org/)：媒体播放器（支持功能插件扩展）
-79. VMWare Workstation Pro：虚拟机（感觉比 Virtual Box 好用）
-80. [Vnt](https://github.com/lbl8603/vnt)/[tailscale](https://github.com/tailscale/tailscale)：异地组网、内网穿透工具（配合 chisel 可更高效的实现 ip 转发、端口映射功能）👍
-81. [VSCode](https://code.visualstudio.com/download)：支持多语言编程的 IDE。【注：针对 BASH 编程的插件：Shell Syntax、shellman、shell-format、ShellCheck。】
-82. [Winhance](https://winhance.net/)：Windows 体验增强工具集。
-83. [Windhawk](https://github.com/ramensoftware/windhawk)/[Rainmeter](https://www.rainmeter.net/)/[Seelen-UI](https://github.com/eythaann/Seelen-UI)：可自定义 Windows 界面布局或显示功能。
-84. [WinMerge](https://winmerge.org/?lang=zh_cn)：文本文件差异对比工具。
-85. [WinPython](https://github.com/winpython/winpython)：便携版 python IDE 编写调试环境
-86. [WSAppBak](https://github.com/Wapitiii/WSAppBak)：微软应用商店付费软件破解器。
-87. [WSLUI](https://wsl-ui.octasoft.co.uk/)/[wsl-dashboard](https://github.com/owu/wsl-dashboard)：WSL 图形化管理面板。
-88. Wsusoffline：Windows 系统离线升级（特殊情况下可能会用到）
-89. [zRenamer](https://abc100.net/854/)：文件批量改名。
-90. 代理批量检测工具/[unfx-proxy-checker](https://github.com/openproxyspace/unfx-proxy-checker)：代理 IP 有效性批量检测工具。
-91. 坚果云：跨设备文件同步共享（支持 WebDAV，算是国内外云盘中支持 WebDAV 最好的）👍
-92. 方方格子/iSlide/小恐龙公文排版助手：Office 办公三件套强化插件。
-93. [格式工厂](http://pcfreetime.com/formatfactory/CN/download.html)：功能全面的格式转换器（支持转换几乎所有主流的多媒体文件格式）
-94. [科来网络分析系统](https://www.colasoft.com.cn/downloads/csnas)：相当于 wireshark 抓包工具的补充，wireshark 只能读、分析数据包，而这款软件却支持分析、编辑数据包。
-95. **----- 以下为临时未排版应用 -----**
+16. [Cheatreader](https://github.com/yaoyao2mm/cheatreader)：摸鱼看小说神器。
+17. [Chisel](https://github.com/jpillora/chisel)：基于 TCP/UDP 的流量通道 👍
+18. [Clink](https://github.com/chrisant996/clink)：cmd.exe 强化工具（使 cmd 也支持自动补全、快速复制粘贴、历史记录查看等功能）
+19. [Cygwin64](https://www.cygwin.com/)：Windows 下类 UNIX 模拟环境（也可以使用 Windows 中 WLS：Ubuntu、kali）
+20. [DesktopNote](https://github.com/changbowen/DesktopNote)：桌面记事本（轻便精巧版）。
+22. DiskGeniusEng_Pro：磁盘分割管理器
+23. [Ditto](https://sabrogden.github.io/Ditto/)：剪切板强化扩展
+24. [Enigma Virtual Box](https://enigmaprotector.com/en/downloads.html)：单文件封装器。
+25. [FastCopy](https://fastcopy.jp/)：超快的文件复制与删除（对于复制或删除大且碎片化文件的目录简直不要太爽）👍
+26. [FileZilla](https://filezilla-project.org/)：FTP 客户端
+27. [FlyOOBE](https://github.com/builtbybel/FlyOOBE)：绕过 Win11 安装的硬件限制，让普通电脑依旧可以安装 Win11。
+28. [FreeFileSync](https://freefilesync.org/)：文件夹对比及同步（支持对本地文件进行监视，进而实时同步，即 RealTimeSync 功能）👍
+29. [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)：frp 内网穿透客户端的 GUI 界面版本。
+30. [GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp)：离线下载微软应用商店中的软件。
+31. [GitKraken](https://www.gitkraken.com/git-client)：Git 图形化客户端（[其它替代品](https://git-scm.com/tools/guis)）👍
+32. [HandBrake](https://handbrake.fr/)：视频格式转换器（容量高压缩比，清晰度低损耗）👍
+33. IDM/[NDM](https://neatdownloadmanager.com/index.php/en/)：多线程下载器。
+34. [Iriun](https://iriun.com/)：共享手机摄像头给电脑。【同时能共享麦克风给电脑】
+35. JavE：全能型 Ascii 绘图工具（用字母画图写字）👍
+36. [Johnny](https://openwall.info/wiki/john/johnny)：密码破解器 john 的图形界面版（支持对 pdf、office、zip、rar 等加密文件进行密码破解）👍
+37. [KeePass](https://keepass.info/)：密码管理器
+38. Kleopatra：文件加解密（相当于 Linux 下的 GPG）
+39. [Listary](https://www.listary.com/download)：文件快速搜索（个人觉得比 everything 好用）
+40. [LiteMonitor](https://github.com/Diorser/LiteMonitor)：电脑硬件资源（CPU、RAM 等）监控软件。
+41. [MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect)：鼠标炫酷特效。
+42. [MobaXterm](https://mobaxterm.mobatek.net/)/SecureCRTPortable/[Xterminal](https://www.xterminal.cn/)：远程终端管理器 👍
+43. [mumu 模拟器](https://mumu.163.com/)：Windows 上的安卓模拟器。
+44. [Navicat](https://www.navicat.com.cn/products)/[dbeaver](https://github.com/dbeaver/dbeaver)/[DBX](https://github.com/t8y2/dbx)：数据库图形界面客户端（支持多种数据库的连接）
+45. [NetSetMan](https://www.netsetman.com/en/freeware)：网卡配置文件随意切换，免去反锁配置 Ip 等信息的操作。
+46. [Openscreen](https://github.com/siddharthvaddem/openscreen)/[Recordly](https://github.com/webadderallorg/Recordly)：鼠标跟踪放大录屏工具。
+47. [PortableApps](https://portableapps.com/)：可携式绿色软件平台（可跟随 U 盘随查随用的各种绿色软件整合平台）
+48. [Privexec](https://github.com/M2Team/Privexec)：类似于 sudo 一样，支持以指定的用户身份去运行程序。
+49. [Proxifier](https://www.proxifier.com/)：分应用代理 👍
+50. PuloversMacroCreator：基于 AutoHotkey 语言的宏录制器。
+51. [Pycharm Community ](https://www.jetbrains.com/zh-cn/pycharm/download/other.html)：针对 Python 编程的智能 IDE。
+52. [QTTabBar](http://qttabbar.wikidot.com/)：资源管理器强化扩展
+53. [QuickLook](https://github.com/QL-Win/QuickLook)：快速预览所支持文件的内容（基本上常见的文件均支持）
+54. [RaiDrive](https://www.raidrive.com/zh-Hans/)：云存储本地挂载（类似于 windows 磁盘映射，但这个支持的存储类型丰富）
+55. Recuva：文件误删恢复工具。
+56. RegWorkshop：注册表管理器
+57. [Sandboxie](https://sandboxie-plus.com/)：软件沙盘（相比于打开虚拟机来测试来路不明的软件来说这个更轻便）
+58. [Scoop](https://github.com/ScoopInstaller/Scoop)/Choco/Winget：Windows 命令行包管理器。（winget 可配合 https://winstall.app/ 实现一键批量安装）👍
+59. [Screego](https://github.com/screego/server)：基于浏览器的远程桌面共享。
+60. [ScreenToGif](https://www.screentogif.com/)：Gif 动画录制工具
+61. ShanaeEcoder：视频压制软件（又称 FFmpeg 最强套壳）
+62. [ShareX](https://getsharex.com/)：截图录屏
+63. Shimeji/[BongoCat](https://github.com/ayangweb/BongoCat)/[Mate-Engine](https://github.com/shinyflvre/Mate-Engine)：PC 桌面宠物
+64. smartpackager：将需要多次点击安装的 exe 安装包直接转换为点击一次即安装的 msi 安装格式
+65. Stardock_Fences_v4.12：桌面文件整理
+66. [Stretchly](https://github.com/hovancik/stretchly)/Lris Pro：久坐休息提醒。
+67. [SwitchHosts](https://switchhosts.app/zh)：快速切换系统 hosts 源
+68. [SyncTrayzor](https://github.com/canton7/SyncTrayzor)：跨设备文件同步工具（区别于常规的云端存储同步，工作方式类似于去中心化的 P2P 技术，最重要的是适用于局域网或互联网的网络环境。配合安卓客户端 Syncthing 可实现手机电脑文件随时同步的效果）👍
+69. [systeminformer](https://github.com/winsiderss/systeminformer)：功能更强的任务管理器 👍
+70. [tiny-rdm](https://github.com/tiny-craft/tiny-rdm)：一个轻量且现代化的 Redis 客户端。
+71. [ToolsFx](https://github.com/Leon406/ToolsFx)：密码学工具箱
+72. [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)：网速监控悬浮显示（除了监视网速外，插件功能还支持天气、任务栏小说阅读功能）
+73. [Treesize](https://treesize.cn/)/WizTree：磁盘空间分析
+74. [Typora-Unlocker](https://github.com/743859910/Typora)：Typora 破解器。
+75. [typora_plugin](https://github.com/obgnail/typora_plugin)：Typora 功能强化插件。👍
+76. [Ventoy](https://www.ventoy.net/cn/index.html)：U 盘启动制作工具（配合优启通、微 PE 等 PE ISO 镜像，可以实现通过一个 U 盘进入多个 PE 环境的效果，进而随意选择自己喜爱的 PE 环境进行系统的安装）👍
+77. [Vfox](https://github.com/version-fox/vfox)：跨平台版本版本管理器（支持众多常见的 SDK，如 java、python、dotnet 等）
+78. [Vimo Rebinder](https://kqdssheng.lanzoub.com/io2Kr39ex63e)：快捷键管理器。
+79. [VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser)：免登录、支持插件管理的指纹浏览器。
+80. [VLC](https://www.videolan.org/)：媒体播放器（支持功能插件扩展）
+81. VMWare Workstation Pro：虚拟机（感觉比 Virtual Box 好用）
+82. [Vnt](https://github.com/lbl8603/vnt)/[tailscale](https://github.com/tailscale/tailscale)：异地组网、内网穿透工具（配合 chisel 可更高效的实现 ip 转发、端口映射功能）👍
+83. [VSCode](https://code.visualstudio.com/download)：支持多语言编程的 IDE。【注：针对 BASH 编程的插件：Shell Syntax、shellman、shell-format、ShellCheck。】
+84. [Winhance](https://winhance.net/)：Windows 体验增强工具集。
+85. [Windhawk](https://github.com/ramensoftware/windhawk)/[Rainmeter](https://www.rainmeter.net/)/[Seelen-UI](https://github.com/eythaann/Seelen-UI)：可自定义 Windows 界面布局或显示功能。
+86. [WinMerge](https://winmerge.org/?lang=zh_cn)：文本文件差异对比工具。
+87. [WinPython](https://github.com/winpython/winpython)：便携版 python IDE 编写调试环境
+88. [WSAppBak](https://github.com/Wapitiii/WSAppBak)：微软应用商店付费软件破解器。
+89. [WSLUI](https://wsl-ui.octasoft.co.uk/)/[wsl-dashboard](https://github.com/owu/wsl-dashboard)：WSL 图形化管理面板。
+90. Wsusoffline：Windows 系统离线升级（特殊情况下可能会用到）
+91. [zRenamer](https://abc100.net/854/)：文件批量改名。
+92. 代理批量检测工具/[unfx-proxy-checker](https://github.com/openproxyspace/unfx-proxy-checker)：代理 IP 有效性批量检测工具。
+93. 坚果云：跨设备文件同步共享（支持 WebDAV，算是国内外云盘中支持 WebDAV 最好的）👍
+94. 方方格子/iSlide/小恐龙公文排版助手：Office 办公三件套强化插件。
+95. [格式工厂](http://pcfreetime.com/formatfactory/CN/download.html)：功能全面的格式转换器（支持转换几乎所有主流的多媒体文件格式）
+96. [科来网络分析系统](https://www.colasoft.com.cn/downloads/csnas)：相当于 wireshark 抓包工具的补充，wireshark 只能读、分析数据包，而这款软件却支持分析、编辑数据包。
+97. **----- 以下为临时未排版应用 -----**
 
 ### **Linux 类**
 
@@ -138,15 +139,17 @@
 18. [sshpass](https://github.com/kevinburke/sshpass)：让 ssh 连接脚本化，不再需要进行密码输入交互。
 19. [thefuck](https://github.com/nvbn/thefuck)：命令输错自动纠正。
 20. [tldr](https://github.com/tldr-pages/tldr)/[tealder](https://github.com/tealdeer-rs/tealdeer) ：命令行参数用法速查。
-21. [translate-shell](https://github.com/soimort/translate-shell)：命令行翻译工具。
-22. [trash-cli](https://github.com/andreafrancia/trash-cli)/[safe-rm](https://github.com/kaelzhang/shell-safe-rm)：命令行回收站。防止意外的 `rm -rf /` 的破坏。【trash-cli 采用回收站（`.local/share/Trash/`）的方式、safe-rm 采用重要目录加黑名单跳过的方式】
-23. [vfox](https://github.com/version-fox/vfox)：可拓展的版本控制器，轻松管理工具或应用项目的运行环境。
-24. [x-cmd](https://cn.x-cmd.com/)：一条命令使用多种工具，有点类似于 Windows 中的 scoop 包管理器。
-25. [yazi](https://github.com/sxyazi/yazi)：终端文件管理器。
-26. [zoxide](https://github.com/ajeetdsouza/zoxide)：更智能的 cd 命令替代品。
-27. **----- 其它命令 -----**
-28. [winBoat](https://www.winboat.app/)/WinApps for Linux：在 Linux 桌面上无缝运行 Windows 应用程序。
-35. [wine](https://appdb.winehq.org/)：在 Linux 环境下运行/安装 Windows 环境下的应用程序。
+21. [toilet](http://caca.zoy.org/wiki/toilet)：彩色的 ASCII 艺术字效果。
+22. [translate-shell](https://github.com/soimort/translate-shell)：命令行翻译工具。
+23. [trash-cli](https://github.com/andreafrancia/trash-cli)/[safe-rm](https://github.com/kaelzhang/shell-safe-rm)：命令行回收站。防止意外的 `rm -rf /` 的破坏。【trash-cli 采用回收站（`.local/share/Trash/`）的方式、safe-rm 采用重要目录加黑名单跳过的方式】
+24. [vfox](https://github.com/version-fox/vfox)：可拓展的版本控制器，轻松管理工具或应用项目的运行环境。
+25. [witr](https://github.com/pranshuparmar/witr)：lsof 的替代品版，可根据 监听端口、进程  pid、进程名称、等点滴信息直接调查程序的所有底细。👍
+26. [x-cmd](https://cn.x-cmd.com/)：一条命令使用多种工具，有点类似于 Windows 中的 scoop 包管理器。
+27. [yazi](https://github.com/sxyazi/yazi)：终端文件管理器。
+28. [zoxide](https://github.com/ajeetdsouza/zoxide)：更智能的 cd 命令替代品。
+29. **----- 其它命令 -----**
+30. [winBoat](https://www.winboat.app/)/WinApps for Linux：在 Linux 桌面上无缝运行 Windows 应用程序。
+31. [wine](https://appdb.winehq.org/)：在 Linux 环境下运行/安装 Windows 环境下的应用程序。
 
 ### **Android 类**
 
@@ -217,27 +220,29 @@
 
 1. **MCP 清单**：[Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH)
 2. **Skills 清单**：[Awesome Claude Skills](https://awesome-skills.com/)、[awesome-openclaw-skills-zh](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh)
-3. [Agent-Reach](https://github.com/Panniantong/Agent-Reach)：让 AI Agent 可以上网冲浪。例如：让 AI 从 YouTube、Bilibili、小红书、推特、GitHub 上解析视频、搜索数据。【**注意**：这仅是一个可以自动配置这一切能力的脚手架，实际上它与 Agent 之间的集成是通过 Skill 实现的，skill 默认放在了家目录中的 agent 目录下，如果你的 AI 客户端有自己专属的 skill 目录，需要手动加载。】【Skills】
+3. [Agent-Reach](https://github.com/Panniantong/Agent-Reach)：让 AI Agent 可以上网冲浪。例如：让 AI 从 YouTube、Bilibili、小红书、推特、GitHub 上解析视频、搜索数据。【Skills】【**注意**：这仅是一个可以自动配置这一切能力的脚手架，实际上它与 Agent 之间的集成是通过 Skill 实现的，skill 默认放在了家目录中的 agent 目录下，如果你的 AI 客户端有自己专属的 skill 目录，需要手动加载。】
 4. [AutoGLM](https://github.com/zai-org/Open-AutoGLM)：控制手机，与手机交互。【MCP】
 5. [Bilibili](https://github.com/wangshunnn/bilibili-mcp-server)：与 Bilibili 进行交互。【MCP】
-6. [Caveman](https://github.com/JuliusBrussee/caveman)：让 AI 极简回复，省 tokens 神器。【Skills】
-7. [Chrome-Devtools](https://github.com/ChromeDevTools/chrome-devtools-mcp)：可以与 Chrome 开发工具进行交互，让其进行分析、抓包、重制包等操作。【MCP】
-8. [CSV Editor](https://github.com/santoshray02/csv-editor)：对 CSV 文件进行分析与编辑。【MCP】
-9. [Docker](https://github.com/ckreiling/mcp-server-docker)：与 Docker 容器进行交互。【MCP】
-10. [Drawio](https://github.com/jgraph/drawio-mcp)：流程图、架构图、网络拓扑图绘制工具。【MCP】
-11. [Exa](https://github.com/exa-labs/exa-mcp-server)：可以与 exa 这个强大的 Web 搜索引擎进行交互。【MCP】
-12. [Excel](https://github.com/haris-musa/excel-mcp-server)：在没有 office 环境的情况下，也能与 excel 表格进行交互。【MCP】
-13. [Everything](https://github.com/mamertofabian/mcp-everything-search)：与 Everything 联动，以方便更快的搜索本机文件。【MCP】
-14. [GitHub](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/github)：与 GitHub 仓库进行交互。【MCP】
-15. [HexStrike-AI](https://github.com/0x4m4/hexstrike-ai)：与 kali 系统的 150 多个网络安全工具进行交互，自动化整个渗透测试流程。【MCP】
-16. [humanize-zh](https://clawhub.ai/bbintom123321-lab/humanize-zh)：中文去 AI 味。【Skills】
-17. [mem0](https://agentrush.mem0.ai/)：Agent 记忆云端存储。【[MCP](https://docs.mem0.ai/platform/mem0-mcp)】
-18. [MySQL](https://github.com/designcomputer/mysql_mcp_server)：与 MySQL 数据库进行完全交互。【MCP】
-19. [Playwright](https://github.com/microsoft/playwright-mcp)：与浏览器自动化交互。【MCP】
-20. [SSH](https://github.com/classfang/ssh-mcp-server)：与 SSH 进行交互（偏 Linux 系统）。【MCP】
-21. [Windows CLI](https://github.com/SimonB97/win-cli-mcp-server)：与 Windows 系统的 Shell 进行命令交互。【MCP】
-22. [Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP)：让 AI 分析 pcap 数据包的内容。【MCP】
-23. [WSL-exec](https://github.com/spences10/mcp-wsl-exec)：与 WSL 中的系统进行交互。【MCP】
+6. [Burpsuite](https://github.com/PortSwigger/mcp-server)：与 Burpsuite 进行交互。【MCP】【**注意**：该 mcp java 包支持的 java 版本是 21，若是其他版本可能会发生异常。】
+7. [Caveman](https://github.com/JuliusBrussee/caveman)：让 AI 极简回复，省 tokens 神器。【Skills】
+8. [Chrome-Devtools](https://github.com/ChromeDevTools/chrome-devtools-mcp)：可以与 Chrome 开发工具进行交互，让其进行分析、抓包、重制包等操作。【MCP】
+9. [CSV Editor](https://github.com/santoshray02/csv-editor)：对 CSV 文件进行分析与编辑。【MCP】
+10. [Docker](https://github.com/ckreiling/mcp-server-docker)：与 Docker 容器进行交互。【MCP】
+11. [Drawio](https://github.com/jgraph/drawio-mcp)：流程图、架构图、网络拓扑图绘制工具。【MCP】
+12. [Exa](https://github.com/exa-labs/exa-mcp-server)：可以与 exa 这个强大的 Web 搜索引擎进行交互。【MCP】
+13. [Excel](https://github.com/haris-musa/excel-mcp-server)：在没有 office 环境的情况下，也能与 excel 表格进行交互。【MCP】
+14. [Everything](https://github.com/mamertofabian/mcp-everything-search)：与 Everything 联动，以方便更快的搜索本机文件。【MCP】
+15. [GitHub](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/github)：与 GitHub 仓库进行交互。【MCP】
+16. [HexStrike-AI](https://github.com/0x4m4/hexstrike-ai)：与 kali 系统的 150 多个网络安全工具进行交互，自动化整个渗透测试流程。【MCP】
+17. [humanize-zh](https://clawhub.ai/bbintom123321-lab/humanize-zh)：中文去 AI 味。【Skills】
+18. [Kami](https://github.com/tw93/Kami)：适合 AI 时代的排版设计系统，让文档更清晰好读，也容易记住。【Skills】
+19. [mem0](https://agentrush.mem0.ai/)：Agent 记忆云端存储。【[MCP](https://docs.mem0.ai/platform/mem0-mcp)】
+20. [MySQL](https://github.com/designcomputer/mysql_mcp_server)：与 MySQL 数据库进行完全交互。【MCP】
+21. [Playwright](https://github.com/microsoft/playwright-mcp)：与浏览器自动化交互。【MCP】
+22. [SSH](https://github.com/classfang/ssh-mcp-server)：与 SSH 进行交互（偏 Linux 系统）。【MCP】
+23. [Windows CLI](https://github.com/SimonB97/win-cli-mcp-server)：与 Windows 系统的 Shell 进行命令交互。【MCP】
+24. [Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP)：让 AI 分析 pcap 数据包的内容。【MCP】
+25. [WSL-exec](https://github.com/spences10/mcp-wsl-exec)：与 WSL 中的系统进行交互。【MCP】
 
 > 注意：（1）MCP Server 的部署方式有 **本地部署** 和 **远端部署**，http 类型的一般都属于远端部署，需要使用 npm、uv 等命令启动的均是本地部署。（2）uv 在加载命令不成功的情况下，可以先在本地 shell 使用 pip 进行安装，然后再加载 MCP 便可成功。（3）某些 MCP Server 可能还需要额外使用 conf 配置文件，于是便要在 mcp.json 中指定路径，Windows 路径需要使用反斜杠转义，否则会产生异常。
 

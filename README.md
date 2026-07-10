@@ -39,7 +39,8 @@
 17. [Chisel](https://github.com/jpillora/chisel)：基于 TCP/UDP 的流量通道 👍
 18. [Clink](https://github.com/chrisant996/clink)：cmd.exe 强化工具（使 cmd 也支持自动补全、快速复制粘贴、历史记录查看等功能）
 19. [Cygwin64](https://www.cygwin.com/)：Windows 下类 UNIX 模拟环境（也可以使用 Windows 中 WLS：Ubuntu、kali）
-20. [DesktopNote](https://github.com/changbowen/DesktopNote)：桌面记事本（轻便精巧版）。
+20. [Deskflow](https://github.com/deskflow/deskflow)/[Synergy](https://symless.com/synergy/cn)：在多台电脑之间共用一个键盘和一个鼠标。
+21. [DesktopNote](https://github.com/changbowen/DesktopNote)：桌面记事本（轻便精巧版）。
 22. DiskGeniusEng_Pro：磁盘分割管理器
 23. [Ditto](https://sabrogden.github.io/Ditto/)：剪切板强化扩展
 24. [Enigma Virtual Box](https://enigmaprotector.com/en/downloads.html)：单文件封装器。
@@ -119,37 +120,40 @@
 
 ### **Linux 类**
 
-1. [asciinema](https://github.com/asciinema/asciinema)/[vhs](https://github.com/charmbracelet/vhs)：命令行会话录制、播放工具。
-2. [bat](https://github.com/sharkdp/bat)：cat 的高级版本，支持多种编程语言的语法高亮显示。
-3. [btop](https://github.com/aristocratos/btop)/[htop](https://github.com/htop-dev/htop)：进程查看器 top 的现代化版本。
-4. [chsrc](https://github.com/RubyMetric/chsrc)：全平台换源工具。
-5. [clash-for-linux](https://github.com/wnlen/clash-for-linux)/[clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install)：命令行版的 clash 代理。
-6. [duf](https://github.com/muesli/duf)： 磁盘使用状况查看器，df 替代品。
-7. [fd](https://github.com/sharkdp/fd)：比 find 更快、使用更简单的文件搜索工具。
-8. [fzf](https://github.com/junegunn/fzf)：文件模糊查找器。【`ps aux | fzf`】
-9. [glow](https://github.com/charmbracelet/glow)：命令行中的 MarkDown 阅读器。
-10. [gping](https://github.com/orf/gping)：图形化显示网络延迟状况，比 ping 更直观。
-11. [mycli](https://github.com/dbcli/mycli)：可以高亮且自动补全命令的 mysql 命令行客户端。【注：官方除了支持 mysql 外，还有 专门支持 [mssql](https://github.com/dbcli/mssql-cli)、[postgrep](https://github.com/dbcli/pgcli) 等数据库的命令行自动补全工具。】
-12. [ncdu](https://dev.yorhel.nl/ncdu)/[dust](https://github.com/bootandy/dust)：一个文本界面的磁盘空间分析器，比 du 更快更直观。
-13. [nethogs](https://github.com/raboof/nethogs)：像 top 那样监视进程的网络流量收发情况。
-14. [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)：对 Linux 的 shell 进行美化，且支持插件和主题。【插件推荐：z aliases、tldr、themes、thefuck、zsh-autosuggestions。主题推荐：maran。】
-15. [reinstall](https://github.com/bin456789/reinstall)：在 VPS 上一键重装指定的操作系统。👍
-16. [rush](https://github.com/shenwei356/rush)：比 xarg 更灵活且更快的多任务并行处理工具。
-17. [sqlit](https://github.com/Maxteabag/sqlit)：命令行 TUI 类型的数据库客户端（类似 Navicate），主流的数据库均支持。
-18. [sshpass](https://github.com/kevinburke/sshpass)：让 ssh 连接脚本化，不再需要进行密码输入交互。
-19. [thefuck](https://github.com/nvbn/thefuck)：命令输错自动纠正。
-20. [tldr](https://github.com/tldr-pages/tldr)/[tealder](https://github.com/tealdeer-rs/tealdeer) ：命令行参数用法速查。
-21. [toilet](http://caca.zoy.org/wiki/toilet)：彩色的 ASCII 艺术字效果。
-22. [translate-shell](https://github.com/soimort/translate-shell)：命令行翻译工具。
-23. [trash-cli](https://github.com/andreafrancia/trash-cli)/[safe-rm](https://github.com/kaelzhang/shell-safe-rm)：命令行回收站。防止意外的 `rm -rf /` 的破坏。【trash-cli 采用回收站（`.local/share/Trash/`）的方式、safe-rm 采用重要目录加黑名单跳过的方式】
-24. [vfox](https://github.com/version-fox/vfox)：可拓展的版本控制器，轻松管理工具或应用项目的运行环境。
-25. [witr](https://github.com/pranshuparmar/witr)：lsof 的替代品版，可根据 监听端口、进程  pid、进程名称、等点滴信息直接调查程序的所有底细。👍
-26. [x-cmd](https://cn.x-cmd.com/)：一条命令使用多种工具，有点类似于 Windows 中的 scoop 包管理器。
-27. [yazi](https://github.com/sxyazi/yazi)：终端文件管理器。
-28. [zoxide](https://github.com/ajeetdsouza/zoxide)：更智能的 cd 命令替代品。
-29. **----- 其它命令 -----**
-30. [winBoat](https://www.winboat.app/)/WinApps for Linux：在 Linux 桌面上无缝运行 Windows 应用程序。
-31. [wine](https://appdb.winehq.org/)：在 Linux 环境下运行/安装 Windows 环境下的应用程序。
+1. [amazing-qr](https://github.com/x-hw/amazing-qr)：艺术二维码制作工具，支持彩色、动图的二维码效果。
+2. [asciinema](https://github.com/asciinema/asciinema)/[vhs](https://github.com/charmbracelet/vhs)：命令行会话录制、播放工具。
+3. [atuin](https://github.com/atuinsh/atuin)：Linux 命令历史记录跨设备同步，以及支持命令的模糊搜索。
+4. [bat](https://github.com/sharkdp/bat)：cat 的高级版本，支持多种编程语言的语法高亮显示。
+5. [btop](https://github.com/aristocratos/btop)/[htop](https://github.com/htop-dev/htop)：进程查看器 top 的现代化版本。
+6. [chsrc](https://github.com/RubyMetric/chsrc)：全平台换源工具。
+7. [clash-for-linux](https://github.com/wnlen/clash-for-linux)/[clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install)：命令行版的 clash 代理。
+8. [duf](https://github.com/muesli/duf)： 磁盘使用状况查看器，df 替代品。
+9. [fd](https://github.com/sharkdp/fd)：比 find 更快、使用更简单的文件搜索工具。
+10. [fzf](https://github.com/junegunn/fzf)：文件模糊查找器。【`ps aux | fzf`】
+11. [glow](https://github.com/charmbracelet/glow)：命令行中的 MarkDown 阅读器。
+12. [gping](https://github.com/orf/gping)：图形化显示网络延迟状况，比 ping 更直观。
+13. [lnav](https://github.com/tstack/lnav)：颜色高亮的日志文件查看器。
+14. [mycli](https://github.com/dbcli/mycli)：可以高亮且自动补全命令的 mysql 命令行客户端。【注：官方除了支持 mysql 外，还有 专门支持 [mssql](https://github.com/dbcli/mssql-cli)、[postgrep](https://github.com/dbcli/pgcli) 等数据库的命令行自动补全工具。】
+15. [ncdu](https://dev.yorhel.nl/ncdu)/[gdu](https://github.com/dundee/gdu)/[dust](https://github.com/bootandy/dust)：一个文本界面的磁盘空间分析器，比 du 更快更直观。
+16. [nethogs](https://github.com/raboof/nethogs)：像 top 那样监视进程的网络流量收发情况。
+17. [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)：对 Linux 的 shell 进行美化，且支持插件和主题。【插件推荐：z aliases、tldr、themes、thefuck、zsh-autosuggestions。主题推荐：maran。】
+18. [reinstall](https://github.com/bin456789/reinstall)：在 VPS 上一键重装指定的操作系统。👍
+19. [rush](https://github.com/shenwei356/rush)：比 xarg 更灵活且更快的多任务并行处理工具。
+20. [sqlit](https://github.com/Maxteabag/sqlit)：命令行 TUI 类型的数据库客户端（类似 Navicate），主流的数据库均支持。
+21. [sshpass](https://github.com/kevinburke/sshpass)：让 ssh 连接脚本化，不再需要进行密码输入交互。
+22. [thefuck](https://github.com/nvbn/thefuck)：命令输错自动纠正。
+23. [tldr](https://github.com/tldr-pages/tldr)/[tealder](https://github.com/tealdeer-rs/tealdeer) ：命令行参数用法速查。
+24. [toilet](http://caca.zoy.org/wiki/toilet)：彩色的 ASCII 艺术字效果。
+25. [translate-shell](https://github.com/soimort/translate-shell)：命令行翻译工具。
+26. [trash-cli](https://github.com/andreafrancia/trash-cli)/[safe-rm](https://github.com/kaelzhang/shell-safe-rm)：命令行回收站。防止意外的 `rm -rf /` 的破坏。【trash-cli 采用回收站（`.local/share/Trash/`）的方式、safe-rm 采用重要目录加黑名单跳过的方式】
+27. [vfox](https://github.com/version-fox/vfox)：可拓展的版本控制器，轻松管理工具或应用项目的运行环境。
+28. [witr](https://github.com/pranshuparmar/witr)：lsof 的替代品版，可根据 监听端口、进程  pid、进程名称、等点滴信息直接调查程序的所有底细。👍
+29. [x-cmd](https://cn.x-cmd.com/)：一条命令使用多种工具，有点类似于 Windows 中的 scoop 包管理器。
+30. [yazi](https://github.com/sxyazi/yazi)：终端文件管理器。
+31. [zoxide](https://github.com/ajeetdsouza/zoxide)：更智能的 cd 命令替代品。
+32. **----- 其它命令 -----**
+33. [winBoat](https://www.winboat.app/)/WinApps for Linux：在 Linux 桌面上无缝运行 Windows 应用程序。
+34. [wine](https://appdb.winehq.org/)：在 Linux 环境下运行/安装 Windows 环境下的应用程序。
 
 ### **Android 类**
 
@@ -226,23 +230,25 @@
 6. [Burpsuite](https://github.com/PortSwigger/mcp-server)：与 Burpsuite 进行交互。【MCP】【**注意**：该 mcp java 包支持的 java 版本是 21，若是其他版本可能会发生异常。】
 7. [Caveman](https://github.com/JuliusBrussee/caveman)：让 AI 极简回复，省 tokens 神器。【Skills】
 8. [Chrome-Devtools](https://github.com/ChromeDevTools/chrome-devtools-mcp)：可以与 Chrome 开发工具进行交互，让其进行分析、抓包、重制包等操作。【MCP】
-9. [CSV Editor](https://github.com/santoshray02/csv-editor)：对 CSV 文件进行分析与编辑。【MCP】
-10. [Docker](https://github.com/ckreiling/mcp-server-docker)：与 Docker 容器进行交互。【MCP】
-11. [Drawio](https://github.com/jgraph/drawio-mcp)：流程图、架构图、网络拓扑图绘制工具。【MCP】
-12. [Exa](https://github.com/exa-labs/exa-mcp-server)：可以与 exa 这个强大的 Web 搜索引擎进行交互。【MCP】
-13. [Excel](https://github.com/haris-musa/excel-mcp-server)：在没有 office 环境的情况下，也能与 excel 表格进行交互。【MCP】
-14. [Everything](https://github.com/mamertofabian/mcp-everything-search)：与 Everything 联动，以方便更快的搜索本机文件。【MCP】
-15. [GitHub](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/github)：与 GitHub 仓库进行交互。【MCP】
-16. [HexStrike-AI](https://github.com/0x4m4/hexstrike-ai)：与 kali 系统的 150 多个网络安全工具进行交互，自动化整个渗透测试流程。【MCP】
-17. [humanize-zh](https://clawhub.ai/bbintom123321-lab/humanize-zh)：中文去 AI 味。【Skills】
-18. [Kami](https://github.com/tw93/Kami)：适合 AI 时代的排版设计系统，让文档更清晰好读，也容易记住。【Skills】
-19. [mem0](https://agentrush.mem0.ai/)：Agent 记忆云端存储。【[MCP](https://docs.mem0.ai/platform/mem0-mcp)】
-20. [MySQL](https://github.com/designcomputer/mysql_mcp_server)：与 MySQL 数据库进行完全交互。【MCP】
-21. [Playwright](https://github.com/microsoft/playwright-mcp)：与浏览器自动化交互。【MCP】
-22. [SSH](https://github.com/classfang/ssh-mcp-server)：与 SSH 进行交互（偏 Linux 系统）。【MCP】
-23. [Windows CLI](https://github.com/SimonB97/win-cli-mcp-server)：与 Windows 系统的 Shell 进行命令交互。【MCP】
-24. [Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP)：让 AI 分析 pcap 数据包的内容。【MCP】
-25. [WSL-exec](https://github.com/spences10/mcp-wsl-exec)：与 WSL 中的系统进行交互。【MCP】
+9. [CLI-Anything](https://github.com/HKUDS/CLI-Anything/tree/main/hermes-skill)：可以让所有软件都能被 Agent 驱动，就像是一个可以批量生产 mcp server 的工厂。【Skills】👍
+10. [CSV Editor](https://github.com/santoshray02/csv-editor)：对 CSV 文件进行分析与编辑。【MCP】
+11. [Docker](https://github.com/ckreiling/mcp-server-docker)：与 Docker 容器进行交互。【MCP】
+12. [Drawio](https://github.com/jgraph/drawio-mcp)：流程图、架构图、网络拓扑图绘制工具。【MCP】
+13. [Exa](https://github.com/exa-labs/exa-mcp-server)：可以与 exa 这个强大的 Web 搜索引擎进行交互。【MCP】
+14. [Excel](https://github.com/haris-musa/excel-mcp-server)：在没有 office 环境的情况下，也能与 excel 表格进行交互。【MCP】
+15. [Everything-Search](https://github.com/mamertofabian/mcp-everything-search)：支持与 Windows 下的 Everything 或 Linux 下的 locate 联动，以方便更快速的搜索本机文件。【MCP】
+16. [GitHub](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/github)：与 GitHub 仓库进行交互。【MCP】
+17. [HexStrike-AI](https://github.com/0x4m4/hexstrike-ai)：与 kali 系统的 150 多个网络安全工具进行交互，自动化整个渗透测试流程。【MCP】
+18. [humanize-zh](https://clawhub.ai/bbintom123321-lab/humanize-zh)：中文去 AI 味。【Skills】
+19. [Kami](https://github.com/tw93/Kami)：适合 AI 时代的排版设计系统，让文档更清晰好读，也容易记住。【Skills】
+20. [last30days-skill-cn](https://github.com/Jesseovo/last30days-skill-cn)：最近30天热点信息罗列报告。【Skills】
+21. [mem0](https://agentrush.mem0.ai/)：Agent 记忆云端存储。【[MCP](https://docs.mem0.ai/platform/mem0-mcp)】
+22. [MySQL](https://github.com/designcomputer/mysql_mcp_server)：与 MySQL 数据库进行完全交互。【MCP】
+23. [Playwright](https://github.com/microsoft/playwright-mcp)：与浏览器自动化交互。【MCP】【注：默认情况下，打开的浏览器是一个没有会话登录状态的浏览器，但可配合插件[Playwright Extension](https://chromewebstore.google.com/detail/playwright-extension/mmlmfjhmonkocbjadbfplnigmagldckm) 实现对浏览器的有状态操作。】
+24. [SSH](https://github.com/classfang/ssh-mcp-server)：与 SSH 进行交互（偏 Linux 系统）。【MCP】
+25. [Windows CLI](https://github.com/SimonB97/win-cli-mcp-server)：与 Windows 系统的 Shell 进行命令交互。【MCP】
+26. [Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP)：让 AI 分析 pcap 数据包的内容。【MCP】
+27. [WSL-exec](https://github.com/spences10/mcp-wsl-exec)：与 WSL 中的系统进行交互。【MCP】
 
 > 注意：（1）MCP Server 的部署方式有 **本地部署** 和 **远端部署**，http 类型的一般都属于远端部署，需要使用 npm、uv 等命令启动的均是本地部署。（2）uv 在加载命令不成功的情况下，可以先在本地 shell 使用 pip 进行安装，然后再加载 MCP 便可成功。（3）某些 MCP Server 可能还需要额外使用 conf 配置文件，于是便要在 mcp.json 中指定路径，Windows 路径需要使用反斜杠转义，否则会产生异常。
 
